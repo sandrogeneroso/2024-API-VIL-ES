@@ -1,14 +1,12 @@
 {
-  "vilões": [
-    { "nome": "Michael Myers", "votos": 2500 },
-    { "nome": "Freddy Krueger", "votos": 3000 },
-    { "nome": "Jason Voorhees", "votos": 2700 },
-    { "nome": "Leatherface", "votos": 1800 },
-    { "nome": "Pennywise", "votos": 3200 },
-    { "nome": "Chucky", "votos": 1500 },
-    { "nome": "Norman Bates", "votos": 1900 },
-    { "nome": "Ghostface", "votos": 2100 },
-    { "nome": "Sam", "votos": 800 },
-    { "nome": "Annie Wilkes", "votos": 1200 }
-  ]
+  "Michael Myers": 2500,
+  "Freddy Krueger": 3000,
+  "Jason Voorhees": 2700,
+  "Leatherface": 1800,
+  "Pennywise": 3200,
+  "Chucky": 1500,
+  "Norman Bates": 1900,
+  "Ghostface": 2100,
+  "Sam": 800,
+  "Annie Wilkes": 1200
 }
